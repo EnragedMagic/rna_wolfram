@@ -1,6 +1,6 @@
 # Redes Neuronales Artificiales (AND, OR, XOR)
 
-Este proyecto muestra como entrenar redes neuronales artificiales simples en Wolfram Language para que aprendan a comportarse como compuertas ligicas.
+Este proyecto muestra como entrenar redes neuronales artificiales simples en wolfram para que aprendan a comportarse como compuertas ligicas.
 
 ## Explicacion
 
